@@ -1,0 +1,23 @@
+{
+  "name": "zzzrootpreload",
+  "version": "1.0.0",
+  "description": "Preload for angular, css and JQuery based",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuzuNohara/zzzROOTPreloader.git"
+  },
+  "keywords": [
+    "preloader",
+    "charge"
+  ],
+  "author": "zzzROOT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuzuNohara/zzzROOTPreloader/issues"
+  },
+  "homepage": "https://github.com/SuzuNohara/zzzROOTPreloader#readme"
+}
